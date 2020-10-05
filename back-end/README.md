@@ -8,7 +8,7 @@
 <p>cd back-end</p>
 
 <h5>Install Dependencies</h5>
-<p>npm init -y</p>
+
 <p>npm i</p>
 
 <h5>Run server</h5>
@@ -19,6 +19,7 @@
 <p>cd front-end</p>
 
 <h5>Install Dependencies</h5>
+<p>npm init -y</p>
 <p>npm i</p>
 
 <h5>Run server</h5>
