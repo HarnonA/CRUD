@@ -8,6 +8,7 @@
 <p>cd back-end</p>
 
 <h5>Install Dependencies</h5>
+<p>npm init -y</p>
 <p>npm i</p>
 
 <h5>Run server</h5>
@@ -22,6 +23,10 @@
 
 <h5>Run server</h5>
 <p>npm start</p>
+
+<h5>To auth</h5>
+<p>email:adm@email.com</p>
+<p>password:adm</p>
 
 TODOS
 -upload test file
