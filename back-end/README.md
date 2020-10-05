@@ -1,7 +1,7 @@
 <h2>It's required Node.js, Reactjs, mongoDB and npm</h2>
 
 <h3>Clone Repository</h3>
-<p>git clone https://github.com/HarnonA/anexth-test.git</p>
+<p>git clone https://github.com/HarnonA/crud-anexth.git</p>
 
 <h3>To run the server</h3>
 <h5>Go to server folder</h5>
