@@ -1,0 +1,54 @@
+#Auth {
+    padding-top: 2rem; 
+    color: #fff;
+}
+
+.logoutBtn {
+    width: 20%;
+    background-color: #ff4242;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 16px;
+    border: 0;
+    /* margin: 3.2rem 1rem 0; */
+    padding: 2rem;
+    margin: 2%;
+}
+
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;  
+    margin-top: 2rem;
+    
+}
+
+.loginForm input {
+    margin-bottom: 1rem;
+    height: 2.5rem;
+    width: 40%;
+    border-width: 0;
+    border-radius: 8px;
+    padding-left: 16px;
+    
+}
+
+.sendButton{
+    background-color: #4efd74;
+    padding: 0;
+    border-width: 0;
+    border-radius: 8px;
+    width: 40%;
+    height: 2.5rem;
+}
+
+
+@media (max-width: 720px) {
+    .loginForm input, .sendButton {
+        width: 80%;
+    }
+    .logoutBtn {
+        width: 80%;
+    }
+  }

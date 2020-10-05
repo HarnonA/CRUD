@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+.App {  
+  padding-top: 2rem; 
+  color: #000;
+  
+}
+
+.App h1 {
+  color: #fff;
+}
+
+.App p {
+  color: #ffae00;
+  padding-top: 3rem;
+}
+
+
